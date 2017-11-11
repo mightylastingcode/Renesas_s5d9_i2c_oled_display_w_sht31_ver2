@@ -13,6 +13,8 @@ File Description:
 4.  ssd1306_oled.c/h (subroutines for the OLED module operations)
 5.  en210.c/h (subroutines for AMS EN210 operations - not used in this tutorial but kept here.)
 
+6. S5D9_I2C_INT_ENV210_OLED_SHT31.7z (7zip archive file for e2 studio project file for this project)  Unzip and import into your e2 studio.  It is ready to run if you cannot make your project to work
+
 Datasheet:
 SENSIRION SHT3x-DIS 314010179_SMD Temperature and Humidity Sensor Datasheets.pdf (Temperature sensor datasheet)
 OLED Sepecification.pdf (OLED display module spec sheet)
